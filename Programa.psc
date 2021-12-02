@@ -1,4 +1,6 @@
 Proceso ProgramaGIT
+	
+	//Lineas añadidas para la operacion 6
 		
 		// Programa para almacenar los nombres de los alumnos de una clase y listarlos posteriormente
 		
