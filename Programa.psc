@@ -23,7 +23,7 @@ Proceso ProgramaGIT
 		Para i<-0 hasta num-1
 			Escribir "ALUMNO N? ",i+1,nombre[i];
 		FinPara
-		
+		//aa
 		
 		
 		
