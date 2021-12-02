@@ -12,3 +12,5 @@ LISTA DE VERSIONES
 1.0 - El programa permite procesar hasta 10 alumnos
 
 Lineas añadidas para la operacion 6
+
+VERSION 3.0: El programa permite ahora al usuario indicar el numero de alumnos que hay en la clase
